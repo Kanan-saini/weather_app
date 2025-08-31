@@ -1,16 +1,43 @@
-# weather_app
+## ⛅ Weather App – A Flutter Utility App
 
-A new Flutter project.
+A simple yet powerful Weather Forecast App built using Flutter.  
+This app shows real-time weather updates for any city, with a clean and modern interface.  
+It’s a great mini-project that demonstrates API integration, state management, and responsive UI design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Search weather by city name  
+-  Real-time temperature, humidity, and wind speed updates  
+-  Displays weather conditions with intuitive icons  
+-  Minimal, responsive user interface  
+-  Works using free weather API (e.g., OpenWeatherMap)  
+-  APK ready to install on any Android device  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Download & Install the App
+
+You can download and install the Weather App APK on your Android device:
+
+📦 [Download APK (v0.0.1v)](https://github.com/Kanan-saini/weather_app/releases/tag/0.0.1v)
+
+---
+
+###  How to Install:
+
+1. Download the `app-release.apk` file from the link above.  
+2. Open your device's **file manager** and locate the downloaded file.  
+3. Tap to install — if prompted, allow installation from **unknown sources** in device settings.  
+4. That’s it! Open the app and check live weather updates instantly.  
+
+---
+
+##  What You Learn from This Project
+
+-  How to call REST APIs in Flutter  
+-  Parsing JSON responses and updating UI  
+-  Building responsive & modern weather UI  
+-  How to generate APK and publish it  
+-  Writing clean, maintainable Dart code with separation of concerns  
